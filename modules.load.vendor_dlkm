@@ -279,3 +279,7 @@ rmnet_shs.ko
 wcd939x_slave_dlkm.ko
 radio-i2c-rtc6226-qca.ko
 ipanetm.ko
+wl2866d.ko
+xiaomi_touch.ko
+goodix_core.ko
+goodix_fod.ko

@@ -325,3 +325,4 @@ spf_core_dlkm.ko
 adsp_loader_dlkm.ko
 qti_battery_charger.ko
 qrng_dlkm.ko
+goodix_core.ko
